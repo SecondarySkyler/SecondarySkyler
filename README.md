@@ -4,9 +4,8 @@
 - 🌱 I’m currently learning about Autonomous Software Agents, Cuda Programming and more...
 - ⚡ Fun fact: I love videogames and motorsport such as F1 and MotoGP
 
-<br />
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/cristian-murtas-9239791b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/cristian-murtas-9239791b6" height="30" width="40" /></a>
 </p>
