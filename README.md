@@ -1,7 +1,7 @@
 ### Hi there, I'm Cristian 👋
 
 - 🔭 I’m currently studying at Università di Trento
-- 🌱 I’m currently learning about Autonomous Software Agents, Cuda Programming and more...
+- 🌱 I’m currently learning about Cuda Programming, Distributed Systems and more...
 - ⚡ Fun fact: I love videogames and motorsport such as F1 and MotoGP
 
 
